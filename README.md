@@ -9,7 +9,10 @@ Just snap a picture of your food, and our app will tell you how to make it! We u
 - Image recognition with CNNs
 - Recipe generation with NLP
 - Web interface for results
-- Short description of recipe and duration to make a food recipe 
+- Short description of recipe and duration to make a food recipe
+
+## Dataset
+  https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images/code
 ## Tech Stack
 
 - Python, Flask, TensorFlow
@@ -31,7 +34,6 @@ Just snap a picture of your food, and our app will tell you how to make it! We u
   here install the required packages in the project and run the application using flask 
 
  3. **Run the code:**
- #### Upload a Food Image
 - Use the web interface to upload a dish image. The system will:
 
 - Classify the image
