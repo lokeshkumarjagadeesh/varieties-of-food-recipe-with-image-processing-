@@ -43,11 +43,11 @@ Just snap a picture of your food, and our app will tell you how to make it! We u
 - Display ingredients and instructions
 ## Screenshots
 
+![1](https://github.com/lokeshkumarjagadeesh/varieties-of-food-recipe-with-image-processing-/blob/d3cb3e7c983626803c177f3b1d5bf0a8486a4d79/3.png)
+
 ![1](https://github.com/lokeshkumarjagadeesh/varieties-of-food-recipe-with-image-processing-/blob/9fa8520658de19b32e98cfb87816ca738ec6cc73/1.png)
 
-
-
-
+![3](https://github.com/lokeshkumarjagadeesh/varieties-of-food-recipe-with-image-processing-/blob/d3cb3e7c983626803c177f3b1d5bf0a8486a4d79/2.png)
 
 
 
